@@ -1,3 +1,4 @@
-# VueJS
+# Curso para iniciantes da [FreeCodeCamp](https://www.freecodecamp.org/)
 
-* Repositório voltado para meu conhecimento relacionado a framework [VueJS](https://vuejs.org/)
+* [Link do curso](https://www.youtube.com/watch?v=4deVCNJq3qc&t=6s)
+* [VueJS](https://vuejs.org/)
