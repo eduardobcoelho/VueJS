@@ -1,2 +1,3 @@
 # VueJS
-Este repositório é voltado para todo meu conhecimento sobre a framework VueJS,
+
+* Repositório voltado para meu conhecimento relacionado a framework [VueJS](https://vuejs.org/)
